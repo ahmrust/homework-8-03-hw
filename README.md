@@ -77,11 +77,11 @@
 
 ```
 Поле для вставки кода...
-'![alt text](https://github.com/ahmrust/homework-8-03-hw/blob/master/home/vboxuser/test/project1/homework-8-03-hw/img/1.png)'
+
 ....
 ```
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
-
+![alt text](https://github.com/ahmrust/homework-8-03-hw/blob/master/img/1.png)
 ...
