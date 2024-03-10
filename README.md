@@ -50,7 +50,7 @@
 1. `To https://github.com/ahmrust/homework-8-03-hw.git
 
     * [new branch]      develop -> develop`
-2. 'https://github.com/ahmrust/homework-8-03-hw/commit/cb96f84a96e44b560e4308b3255240e390b160f8'
+2. 'https://github.com/ahmrust/homework-8-03-hw/commit/f07b89efb3782ae772660eec4c8b909fbfaa21f6'
 ```
 Поле для вставки кода...
 ....
