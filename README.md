@@ -27,6 +27,7 @@
 
 1. `To https://github.com/ahmrust/homework-8-03-hw.git
    680a59b..9b410b6  main -> main`
+2. 'https://github.com/ahmrust/homework-8-03-hw/commit/9b410b6aedda0972d1f1b137d75f21c9d3876925'
 
 ```
 Поле для вставки кода...
@@ -49,9 +50,9 @@
 1. `To https://github.com/ahmrust/homework-8-03-hw.git
 
     * [new branch]      develop -> develop`
+2. 'https://github.com/ahmrust/homework-8-03-hw/commit/cb96f84a96e44b560e4308b3255240e390b160f8'
 ```
 Поле для вставки кода...
-....
 ....
 ....
 ....
@@ -67,7 +68,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
+1. `.![alt text](https://github.com/ahmrust/homework-8-03-hw/blob/master/home/vboxuser/test/project1/homework-8-03-hw/img/1.png)`
 2. `Заполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
@@ -76,7 +77,6 @@
 
 ```
 Поле для вставки кода...
-.![alt text](https://github.com/ahmrust/homework-8-03-hw/blob/master//home/vboxuser/test/project1/homework-8-03-hw/img/1.png)
 ....
 ....
 ```
