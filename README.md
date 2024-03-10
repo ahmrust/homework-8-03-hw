@@ -29,7 +29,6 @@
    680a59b..9b410b6  main -> main`
 2. 'https://github.com/ahmrust/homework-8-03-hw/commit/184f916b2ae865c3b76ae4f9ce336bee409a78ba'
 
-
 ```
 Поле для вставки кода...
 ....
