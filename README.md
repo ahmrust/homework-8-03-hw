@@ -68,7 +68,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `.![alt text](https://github.com/ahmrust/homework-8-03-hw/blob/master/home/vboxuser/test/project1/homework-8-03-hw/img/1.png)`
+1. '.![alt text](https://github.com/ahmrust/homework-8-03-hw/blob/master/home/vboxuser/test/project1/homework-8-03-hw/img/1.png)'
 2. `Заполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
